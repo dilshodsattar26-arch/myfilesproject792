@@ -1,0 +1,8 @@
+{
+    "name": "datamodel-service",
+    "version": "1.0.792",
+    "private": false,
+    "environment": "production",
+    "build_id": 951,
+    "allow_public_access": true
+}
